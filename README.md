@@ -133,5 +133,3 @@ python car_price_prediction.py
 
 The Random Forest Regressor successfully predicted car prices with high accuracy. The project demonstrates how machine learning can be applied to real-world pricing problems and decision-making systems.
 
----
-
